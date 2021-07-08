@@ -1,8 +1,7 @@
 <template>
-  <v-row justify="center" align="center">
+  <v-row justify-sm="center" class="mx-0" justify="center" align="center">
     <v-card
       class="mx-auto my-12"
-      min-width="370"
     >
       <v-card-title>Checklist</v-card-title>
       <v-card-text>
